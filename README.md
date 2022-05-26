@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pdrmello
+- 👋 Hi, I’m Pedro Mello - @pdrmello
 - 👀 I’m interested in economy, finance and stock market. 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
